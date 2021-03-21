@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Assig4"},{"p":"<Unnamed>","l":"BarcodeImage"},{"p":"<Unnamed>","l":"BarcodeIO"},{"p":"<Unnamed>","l":"DataMatrix"}];updateSearchResults();
