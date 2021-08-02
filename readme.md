@@ -16,7 +16,7 @@
 
 This repository contains my coursework for CST 338 (Software Design) at CSUMB. The course was primarily performed in Java, with an emphasis on team collaboration, documentation and design ahead of implementation.
 
-The final project is in its own repository here: [Placeholder]
+The final project is in its own repository here: https://github.com/raymondshum/cst-338-simple-erp
 
 Each subfolder contains its own detailed project description and replit link.
 
