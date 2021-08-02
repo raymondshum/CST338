@@ -2,7 +2,6 @@
 
 **Run it on Replit: https://replit.com/@raymondshum/cst338-m1** 
 
-
 ### _Description_ 
 > This program consists of two parts. In Part 1, user input in the form of
 their full name is concatenated, printed along with the length and printed in
@@ -14,3 +13,7 @@ studied, which is displayed in a rounded form.
 ### _Screenshots_
 
 ![Sample](../Images/m1/sample.JPG)
+
+---
+
+[Return to Main Page](https://github.com/raymondshum/CST338)

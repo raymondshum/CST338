@@ -20,3 +20,7 @@ overall winner.
 ![Sample](../Images/m5/sample2.JPG)
 
 ![Sample](../Images/m5/sample3.JPG)
+
+---
+
+[Return to Main Page](https://github.com/raymondshum/CST338)

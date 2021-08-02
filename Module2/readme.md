@@ -13,3 +13,7 @@
 ### _Screenshots_
 
 ![Sample](../Images/m2/sample.JPG)
+
+---
+
+[Return to Main Page](https://github.com/raymondshum/CST338)

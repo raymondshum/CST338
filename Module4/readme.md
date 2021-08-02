@@ -20,3 +20,7 @@ console. It can also generate a text string from a barcode and vice versa.
 ![Sample](../Images/m4/sample3.JPG)
 
 ![Sample](../Images/m4/sample4.JPG)
+
+---
+
+[Return to Main Page](https://github.com/raymondshum/CST338)
